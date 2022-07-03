@@ -1,2 +1,1 @@
-# python-aws
-Python and AWS codes.
+All about data science.
